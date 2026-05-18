@@ -40,9 +40,7 @@ Currently focused on building strong foundations in machine learning, data analy
 ---
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshitJangam&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshitJangam&theme=tokyonight" />
