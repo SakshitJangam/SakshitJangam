@@ -55,11 +55,11 @@ Currently focused on building strong foundations in machine learning, data analy
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="blank">
+<a href="https://www.linkedin.com/in/sakshit-jangam-5967023b1/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:sakshitmle@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
