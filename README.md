@@ -38,15 +38,20 @@ Currently focused on building strong foundations in machine learning, data analy
 - Git & GitHub
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshitJangam&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sakshitjangam&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshitJangam&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sakshitjangam&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 ---
