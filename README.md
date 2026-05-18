@@ -46,7 +46,7 @@ Currently focused on building strong foundations in machine learning, data analy
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshitJangam&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SakshitJangam&theme=tokyonight" />
 </p>
 
 ---
