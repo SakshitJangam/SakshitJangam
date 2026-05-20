@@ -37,14 +37,7 @@ Currently focused on building strong foundations in machine learning, data analy
 - MySQL
 - Git & GitHub
 
----
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshitJangam&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
